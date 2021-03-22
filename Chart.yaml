@@ -1,0 +1,14 @@
+apiVersion: v1
+appVersion: 3.4.5
+description: ONgDB is the world's leading graph database
+home: https://www.ongdb.com
+icon: http://info.ongdb.com/rs/773-GON-065/images/ongdb_logo.png
+maintainers:
+- email: mark.needham@ongdb.com
+  name: mneedham
+name: ongdb
+sources:
+- https://github.com/ongdb/ongdb
+- https://github.com/ongdb/docker-ongdb
+- https://github.com/mneedham/k8s-kubectl
+version: 2.0.0
